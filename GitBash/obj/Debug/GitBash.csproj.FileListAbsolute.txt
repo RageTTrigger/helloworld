@@ -1,0 +1,7 @@
+C:\Users\Артём\source\repos\GitBash\GitBash\bin\Debug\GitBash.exe.config
+C:\Users\Артём\source\repos\GitBash\GitBash\bin\Debug\GitBash.exe
+C:\Users\Артём\source\repos\GitBash\GitBash\bin\Debug\GitBash.pdb
+C:\Users\Артём\source\repos\GitBash\GitBash\obj\Debug\GitBash.csproj.AssemblyReference.cache
+C:\Users\Артём\source\repos\GitBash\GitBash\obj\Debug\GitBash.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\GitBash\GitBash\obj\Debug\GitBash.exe
+C:\Users\Артём\source\repos\GitBash\GitBash\obj\Debug\GitBash.pdb
