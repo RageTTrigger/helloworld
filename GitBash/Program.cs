@@ -13,6 +13,7 @@ namespace GitBash
         {
             Console.WriteLine("Hello world!");
             Console.ReadKey();
+            Console.WriteLine("Dark Souls 1 > Dark Souls 3");
         }
     }
 }
