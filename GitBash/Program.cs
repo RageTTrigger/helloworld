@@ -13,7 +13,7 @@ namespace GitBash
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Hello world!");
-         
+            Console.ReadKey();
         }
     }
 }
