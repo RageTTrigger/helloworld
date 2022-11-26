@@ -11,7 +11,6 @@ namespace GitBash
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Hello world!");
             Console.ReadKey();
         }
